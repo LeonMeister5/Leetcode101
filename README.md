@@ -1,2 +1,5 @@
 # Leetcode101
-My Solutions
+My Solutions.
+
+# Chap1
+Greedy algorithms

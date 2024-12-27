@@ -1,5 +1,5 @@
 # Leetcode101
-My Solutions.
+My Solutions. Chap1-4 C++. Chap5 rust.
 
 # Chap1
 Greedy algorithms
@@ -9,3 +9,9 @@ Two pointers
 
 # Chap3
 Binary search
+
+# Chap4
+Sort
+
+# Chap5
+Search
